@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "404f3a996854c364",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ddbeec6b15c035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9feb897a8f74a602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting Vault/02_Notes_by_Phase/Post Exploitation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post Exploitation"
+            }
+          },
+          {
+            "id": "e43b4ec1c0970fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentesting Vault/03_Tools/LinPEAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LinPEAS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14990572520dfd16",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b6ae3b576330f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0d0f1e2b3b8c4f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "699477f98bd09b3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tools",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7947598078abc4ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "cab96bb3df40a88b",
+    "type": "split",
+    "children": [
+      {
+        "id": "db8ceb4337fa6762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72caf2840a954de2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "c74ace0f401f7706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pentesting Vault/🧭 Pentesting Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🧭 Pentesting Index"
+            }
+          },
+          {
+            "id": "2816427fdeaaa0cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b562683d302ce8ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pentesting Vault/🧭 Pentesting Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🧭 Pentesting Index"
+            }
+          },
+          {
+            "id": "1efc716b9fab271e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4602faabc4c98176",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "9feb897a8f74a602",
+  "lastOpenFiles": [
+    "Pentesting Vault/01_Methodologies/OWASP_10.md",
+    "Pentesting Vault/01_Methodologies/Mitre_ATTACK.md",
+    "Pentesting Vault/02_Notes_by_Phase/Exploitation.md",
+    "Pentesting Vault/02_Notes_by_Phase/Enumeration.md",
+    "Pentesting Vault/05_CheatSheets/📚 Wordlists.md",
+    "Pentesting Vault/🧭 Pentesting Index.md",
+    "Pentesting Vault/05_CheatSheets/🐧 Linux PrivEsc.md",
+    "Pentesting Vault/03_Tools/WinPEAS.md",
+    "Templates/Tool_template.md",
+    "Pentesting Vault/03_Tools/theHarvester.md",
+    "Pentesting Vault/02_Notes_by_Phase/Reconnaissance.md",
+    "Pentesting Vault/03_Tools/Nmap.md",
+    "Pentesting Vault/03_Tools/Mimikatz.md",
+    "Pentesting Vault/03_Tools/Metasploit.md",
+    "Pentesting Vault/03_Tools/Masscan.md",
+    "Pentesting Vault/03_Tools/LinPEAS.md",
+    "Pentesting Vault/03_Tools/Gobuster.md",
+    "Pentesting Vault/03_Tools/Enum4linux.md",
+    "Pentesting Vault/03_Tools/BurpSuite.md",
+    "Pentesting Vault/03_Tools/Amass.md",
+    "Pentesting Vault/05_CheatSheets/Cheat Sheets.md",
+    "Pentesting Vault/05_CheatSheets/🪟 Windows PrivEsc.md",
+    "Pentesting Vault/05_CheatSheets/🌐 Web Exploitation.md",
+    "Pentesting Vault/05_CheatSheets/💣 Payloads.md",
+    "Pentesting Vault/05_CheatSheets/🌐 Common Ports.md",
+    "Pentesting Vault/05_CheatSheets/⛓️ Reverse Shells.md",
+    "Pentesting Vault/05_CheatSheets",
+    "Pentesting Vault/04_Lab_Reports/VulnHub",
+    "Pentesting Vault/04_Lab_Reports/HTB",
+    "Pentesting Vault/04_Lab_Reports/TryHackMe",
+    "Templates",
+    "Pentesting Vault/04_Lab_Reports",
+    "06_Resources",
+    "03_Tools",
+    "Pentesting Vault/02_Notes_by_Phase",
+    "01_Methodologies",
+    "Untitled.canvas"
+  ]
+}
